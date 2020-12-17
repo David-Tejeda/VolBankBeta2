@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6:1", "", "Modelo de Despliegue", "EARoot/EA6/EA259.htm", "188.png", "51", "0", "", "Custom diagram0","{6B61859D-9338-421d-B6F0-2026DCE7A823}");
+tocTab[tocTab.length] = new Array("0.6.1", "1", "Artefactos", "EARoot/EA6/EA1/EA266.htm", "4.png", "", "", "{B7109F12-2C1E-4997-BF38-F409EA54228A}", "Package");
+tocTab[tocTab.length] = new Array("0.6.2", "1", "Topologia (arquitectura HW)", "EARoot/EA6/EA2/EA276.htm", "4.png", "", "", "{8C019841-CAF3-42dc-9915-8587224534BC}", "Package");

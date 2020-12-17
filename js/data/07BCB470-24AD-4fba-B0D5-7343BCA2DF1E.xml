@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Modelo estructural", "EARoot/EA4/EA1/EA96.htm", "188.png", "29", "0", "", "Custom diagram0","{F3424A66-097E-4c1c-9F4E-0B3841EFF9C7}");
+tocTab[tocTab.length] = new Array("0.4.1:2", "", "Arquitectura Software", "EARoot/EA4/EA1/EA98.htm", "176.png", "30", "0", "", "Package diagram0","{182C3A20-F7C9-48c9-85EC-1E98334C9F3C}");
+tocTab[tocTab.length] = new Array("0.4.1.1", "1", "DCD - Diagramas de Interaccion", "EARoot/EA4/EA1/EA1/EA113.htm", "4.png", "", "", "{836F1C9A-EF20-43f5-A84A-B2D843ED093D}", "Package");
+tocTab[tocTab.length] = new Array("0.4.1.2", "1", "IU", "EARoot/EA4/EA1/EA2/EA114.htm", "4.png", "", "", "{34B7D804-A281-4e76-8EA5-DA76595ADEF1}", "Package");
+tocTab[tocTab.length] = new Array("0.4.1.3", "1", "Dominio", "EARoot/EA4/EA1/EA3/EA117.htm", "4.png", "", "", "{8772D94A-954A-4c37-BC65-6FC740343418}", "Package");
+tocTab[tocTab.length] = new Array("0.4.1.4", "1", "Servicios Tecnicos", "EARoot/EA4/EA1/EA4/EA135.htm", "4.png", "", "", "{179EF0D2-9AC1-4377-B24E-4D92CCF62353}", "Package");

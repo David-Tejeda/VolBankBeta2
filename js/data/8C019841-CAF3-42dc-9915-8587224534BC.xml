@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.6.2:1", "", "Topologia (arquitectura HW)", "EARoot/EA6/EA2/EA274.htm", "179.png", "27", "0", "", "Deployment diagram0","{047EA821-6BF0-42ab-96E6-BE338864BEB2}");
+tocTab[tocTab.length] = new Array("0.6.2:2", "", "Node1", "EARoot/EA6/EA2/EA277.htm", "9.png", "E144", "0", "", "Node0","{BC9AE292-7B89-4228-9E89-02FFF3C5A44C}");
+tocTab[tocTab.length] = new Array("0.6.2:3", "", "«server» Servidor web", "EARoot/EA6/EA2/EA278.htm", "9.png", "E143", "0", "", "Node0","{D27F75A5-BB07-4c0a-BC20-EA52AF9A0E16}");
+tocTab[tocTab.length] = new Array("0.6.2:4", "", "«pc» Web Organizador", "EARoot/EA6/EA2/EA279.htm", "9.png", "E146", "0", "", "Node0","{1CCC95B1-98C5-4bf1-B7DD-DDE18C3DFAC9}");
+tocTab[tocTab.length] = new Array("0.6.2:5", "", "«pc client» Web Usuario", "EARoot/EA6/EA2/EA280.htm", "9.png", "E141", "0", "", "Node0","{364472B2-6C68-4644-9164-CE56E256AA73}");
+tocTab[tocTab.length] = new Array("0.6.2:6", "", "Navegador", "EARoot/EA6/EA2/EA281.htm", "192.png", "E142", "E141", "", "ExecutionEnvironment0","{96BE2A78-3128-4dc4-B44B-03798E0FC091}");
+tocTab[tocTab.length] = new Array("0.6.2:7", "", "Navegador", "EARoot/EA6/EA2/EA282.htm", "192.png", "E147", "E146", "", "ExecutionEnvironment0","{5359E0F0-2CB3-4d80-98C8-7AB09386E388}");

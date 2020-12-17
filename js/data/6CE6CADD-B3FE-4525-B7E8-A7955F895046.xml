@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.5.1.3:1", "", "Servicios Técnicos", "EARoot/EA5/EA1/EA3/EA219.htm", "178.png", "22", "0", "", "Component diagram0","{4D7573A6-D78D-4143-827A-EB87C0EAE9DB}");
+tocTab[tocTab.length] = new Array("0.5.1.3:2", "", "Logging", "EARoot/EA5/EA1/EA3/EA222.htm", "10.png", "E96", "0", "", "Component0","{94CA3638-B033-4191-BA3A-0333B4AF9FF9}");
+tocTab[tocTab.length] = new Array("0.5.1.3:3", "", "Persistence", "EARoot/EA5/EA1/EA3/EA223.htm", "10.png", "E99", "0", "", "Component0","{2EA70FDB-A1C8-413c-8AEB-2817B16EF3C1}");
+tocTab[tocTab.length] = new Array("0.5.1.3:4", "", "Registro", "EARoot/EA5/EA1/EA3/EA224.htm", "10.png", "E97", "0", "", "Component0","{C4FA2D57-008E-45c1-9CCE-549334158D7A}");
+tocTab[tocTab.length] = new Array("0.5.1.3:5", "", "RulesEngine", "EARoot/EA5/EA1/EA3/EA225.htm", "10.png", "E98", "0", "", "Component0","{BAA60F29-B076-4b88-BD98-753AB35EBC60}");
+tocTab[tocTab.length] = new Array("0.5.1.3:6", "", "ILogging", "EARoot/EA5/EA1/EA3/EA226.htm", "112.png", "E106", "E96", "", "ProvidedInterface0","{FCCBB072-9D04-40df-B401-C85D5B4402A1}");
+tocTab[tocTab.length] = new Array("0.5.1.3:7", "", "IRegistro", "EARoot/EA5/EA1/EA3/EA227.htm", "112.png", "E105", "E97", "", "ProvidedInterface0","{55CC08AD-F7DA-4455-918D-92F9090D9FD9}");
+tocTab[tocTab.length] = new Array("0.5.1.3:8", "", "IRulesEngine", "EARoot/EA5/EA1/EA3/EA228.htm", "112.png", "E107", "E98", "", "ProvidedInterface0","{9FA438AA-29A6-4ee9-9348-F74F955D137E}");
+tocTab[tocTab.length] = new Array("0.5.1.3:9", "", "IPersistence", "EARoot/EA5/EA1/EA3/EA229.htm", "112.png", "E100", "E99", "", "ProvidedInterface0","{D8745348-B0B9-43f1-9F1A-94B112B3B3C9}");
